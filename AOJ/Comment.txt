@@ -1,0 +1,50 @@
+Q0000: QQ
+	double looping
+Q0001: List of Top 3 Hills
+	sort of array
+Q0002: Digit Number
+	first time of stopping by EOF
+	use 'inject' to calculate sum
+Q0003: Is it a Right Triangle?
+	condition check
+Q0004: Simultaneous Equation
+	numerical calculatation
+Q0005: GCD and LCM
+	gcd and lcm methods
+Q0006: Reverse Sequence
+	reverse method
+Q0007: Debt Hell
+	numerical calculatation
+Q0008: Sum of 4 Integers
+	brute force
+Q0009: Prime Number
+	prime calculation
+Q0010: Circumscribed Circle of a Triangle
+	matrix use
+Q0011: Drawing Lots
+	array swapping
+Q0012: A Point in a Triangle
+	math
+Q0013: Switching Railroad Cars
+	stack
+Q0014: Integral
+	math
+Q0015: National Budget
+	big number
+Q0016: Treasure Hunt
+	sin and cos
+Q0017: Caesar Cipher
+	char shift
+Q0018: Sorting Five Numbers
+	sort and reverse
+Q0019: Factorial
+	factorial number
+Q0020: Capitalize
+	uppercase
+Q0021: Parallelism
+	math (bad floating)
+Q0022: Maximum Sum Sequence
+	Kadane's algorithm
+Q0023: Circles Intersection
+	comparison of 3 numbers
+Q0024: Physical Experiments
